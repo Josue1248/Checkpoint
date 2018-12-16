@@ -1,0 +1,47 @@
+.contenedor-tabla{
+  width: 100%;
+  display: table;
+  
+}
+
+.contenedor-fila{
+  display: table-row;
+
+}
+
+.contenedor-columna{
+  width: 50%;
+  display: table-cell;
+
+}
+
+.user-info{
+  border: 0px solid #085a9d;
+}
+
+.events{
+  width: auto;
+  border: 0px solid #085a9d;
+  float: auto;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+}
+
+.w3-bar-item{
+  padding: 10px;
+  float: left;
+}
+
+header p{
+  text-indent: 4em;
+}
+
+ 
